@@ -1,4 +1,10 @@
 const repeatString = function() {
+   var string = 'hey'
+   var num = 3
+   
+    function repeatString (string, num) {
+
+    }
 
 };
 
