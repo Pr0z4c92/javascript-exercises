@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-const removeFromArray = functionarrayObjectRemoval(object, removeA, removeB,removeC, removeD) {
-    var lengthObject = object.length;
-    for (let i = 0; i <= object; i++){
-        console.log(i);
-    }
-
-=======
-
-
 
 const removeFromArray = function arrayRemoval(objects, A, B, C, D) {
     let lengthArray = objects.length; // lengthOfArray functions as intended. Variable 'i' needs to be increased by one to much the arrays counting structure.
