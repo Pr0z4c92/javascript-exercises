@@ -23,7 +23,9 @@ const removeFromArray = function arrayRemoval(objects, A, B, C, D) {
                 removedObjects = objects.splice(i, i - 1)
             }
         }
+        return removedObjects
     }
 };
+console.log(removeFromArray([1, 2, 3, 4], 3))
 // Do not edit below this line
 module.exports = removeFromArray;
